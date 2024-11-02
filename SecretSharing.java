@@ -8,7 +8,7 @@ import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ShamirSecretSharing {
+public class SecretSharing {
 
     static class Root {
         int x;
